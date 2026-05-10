@@ -1,4 +1,4 @@
-# YXT-P-vs-NP
+# YXT-PvsNP
 
 **Topological Decision of P vs NP**  
 via YuanXian Theory (YD-T64 + TCSC Framework)
