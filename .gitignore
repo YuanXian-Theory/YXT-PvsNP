@@ -1,6 +1,36 @@
-*.aux *.log *.out *.toc *.bbl *.blg
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pdf
+
+# Python / SageMath
 __pycache__/
+*.pyc
+*.pyo
+*.sage.py
+
+# Lean 4
 .lake/
 build/
-figures/
+lean-toolchain
+*.olean
+*.trace
+
+# Figures
+figures/*.png
+figures/*.pdf
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
